@@ -15,9 +15,6 @@ SAMURAI-FIGHTING-GAME
   <img src="https://github.com/MYUVAPRASATH/SAMURAI-FIGHTING-GAME/assets/168657079/aadfada2-90d9-4843-8ed6-7cb305708593" width="700" alt="SAMURAI-FIGHTING-GAME">
 </p>
 
-It seems like you're asking for a README file for your Samurai Fighting Game project. Here's a template you could use:
-
----
 
 # Samurai Fighting Game
 
