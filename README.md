@@ -31,3 +31,40 @@ opponent out of the arena is the winner.
  Sumo Samurai Showdown is a great game for fans of abstract strategy games, samurai 
 lore, and Japanese culture in general. It's easy to learn and can be enjoyed by players of all skill 
 levels. This project was developed by using HTML , CSS and Java script.
+
+PROJECT DESCRIPTION
+
+
+SAMURAI FIGHTING GAME :
+
+ Samurai Fighting is an action-packed fighting game that puts you in 
+the shoes of a master samurai warrior. Use your keyboard keys to move your character around 
+the battlefield, attack your opponents with a range of sword and arrow attacks, and defend 
+against their attacks. You can also use special abilities to gain an edge in battle. Utilize your 
+agility and speed to avoid your enemies' attacks and use your cunning and tactical skills to 
+outwit them. You will never be bored while playing Samurai Fighting because of the 
+challenges. 
+
+ If the user wants to play this game, they must first run this project, 
+which takes them to the game's front page and displays the project name, "Samurai Fighting 
+Game," as well as a start button. The user clicks that button, which takes them to the project's 
+game page, where they can play the game. 
+ Samurai Fighting Games are a form of action game in which two onscreen characters engage in one-on-one combat. Samurai Fighting games frequently feature 
+unarmed fighting, such as boxing or martial arts, but can also include fighting with weapons 
+like swords or guns. Players are given options to control the on-screen characters and engage 
+in close combat with opponents.
+
+PLAYER 1 CONTROLS :
+
+ JUMP : W
+ MOVE LEFT : A
+ MOVE RIGHT : D
+ ATTACK : SPACE
+
+PLAYER 2 CONTROLS :
+
+ JUMP : UP ARROW
+ MOVE LEFT : LEFT ARROW
+ MOVE RIGHT : RIGHT ARROW
+ ATTACK : 0
+
