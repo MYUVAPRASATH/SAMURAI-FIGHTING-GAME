@@ -16,6 +16,7 @@ SAMURAI-FIGHTING-GAME
 </p>
 
 ABSTRACT
+
 The main objective of designing this SAMURAI FIGHTING GAME project is to 
 relief user’s stress and help them to feel happy while playing game. This game was developed 
 for both kids and adult, it is very interesting and easy to play.
